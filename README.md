@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando (e caçando) bugs desde 2020!<br>📚 Atualmente estou aprendendo mais sobre:<br>- Automação de testes com Cypress e JavaScript<br>- BDD com Cucumber/Gherkin<br>- Integrações e testes de API<br>- SQL e validação de dados<br>🎯 Objetivos:<br>- Aprofundar meus conhecimentos em automação de testes<br>- Conquistar certificações internacionais em QA (CTFL/ISTQB)<br>- Contribuir para projetos open source de qualidade de software<br>- Evoluir para QA Engineer Pleno</p>
+<p align="left">✨ Criando (e caçando) bugs desde 2020!<br>📚 Atualmente estou aprendendo mais sobre:<br>- Automação de testes com Cypress e JavaScript<br>- BDD com Cucumber/Gherkin<br>- Integrações e testes de API<br>- SQL e validação de dados<br>🎯 Objetivos:<br>- Aprofundar meus conhecimentos em automação de testes<br>- Conquistar certificações internacionais em QA (CTFL/ISTQB)<br>- Contribuir para projetos open source de qualidade de software<br>- Evoluir para QA Engineer</p>
 
 ###
 
